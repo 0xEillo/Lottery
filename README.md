@@ -1,4 +1,4 @@
-# Chainlink Truffle Box
+# Lottery
 
 <br/>
 <p align="center">
@@ -8,12 +8,7 @@
 </p>
 <br/>
 
-
-# Lottery:
-
 This project demonstrates a lottery system where players can enter based on a fixed fee payed in ETH. The lottery owner can chose when to close entries and a winner is randomly picked. The winner receives all the funds held in the ottery.
 I have used Chainlink Oracles to get live ETH/USD data feeds and provably true randomness for the winner selection.
 
-### Project Documentation links:
-
-[Lottery](https://github.com/Oliver-Ryall/Lottery/blob/master/docs/Lottery.md)
+### [Lottery](https://github.com/Oliver-Ryall/Lottery/blob/master/docs/Lottery.md)
